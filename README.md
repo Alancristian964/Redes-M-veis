@@ -1,2 +1,2 @@
 # Redes-Moveis
-Trabalho Final de Redes Móveis. 
+Trabalho Final na disciplina de Redes de comunicações Móveis. 
